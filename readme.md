@@ -16,10 +16,12 @@
 * tsc --build // builds all files instead of reusing old files
 // was done after deleting build folder
 
-* // -p for project followed by name of dir in package.json
+* -p for project followed by name of dir in package.json
 
 # Debugging :
 * launch.json created and congiguration to debug with npm added, ran from debug pannel
 * npm install --save-dev eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser
 * eslint --init or make manual file
 
+# Source Repo:
+https://github.com/danielstern/compiling-typescript
