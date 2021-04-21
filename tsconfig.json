@@ -1,0 +1,7 @@
+{
+    "extends": "./tsconfig-base.json",
+    "references": [{
+        "path":"./server",
+    }],
+    "files": [], // syas that all ts files belong to their chield directories and not this parent dierctory
+}
